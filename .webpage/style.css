@@ -1,0 +1,226 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+.navbar{
+    height:320px;
+    background-color:rgba(22, 32, 55);
+
+}
+#word{
+    margin-left: 95px;
+    color:rgba(233, 234, 237);
+    
+    
+    font-weight: 700;
+}
+
+#h{
+    color: blue;
+}
+.projects{
+    background-color: rgb(72, 146, 252);
+    border:1px solid black;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    font-size: 15px;
+    padding: 5px;
+}
+.contact{
+    background-color:rgba(22, 32, 55);
+    margin-left: 10px;
+    color:rgb(233, 234, 237) ;
+    padding: 7px;
+    font-size: 12px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border:1px solid white;
+    
+
+}
+.container{
+    margin-left: 95px;
+    padding-top: 60px;
+    border:none;
+    width: 50%;
+    
+}
+#s{
+    color:blue;
+
+}
+.university{
+    font-weight: 700;
+    color: rgb(160, 165, 175);
+}
+.hello{
+    color: rgb(117, 125, 140);
+}
+.hs{
+    color:rgba(252, 252, 252);
+}
+#paragraph{
+    color:rgba(233, 234, 237);
+}
+.tag{
+    color:bisque;
+    width: 5px;
+    height: 5px;
+    display:flex;
+    
+    margin-right: 410px;
+    gap:15px;
+}
+.name{
+  display:flex;
+  justify-content: space-between;
+  padding:15px;
+  
+}
+.circle{
+    color:antiquewhite;
+    width: 50%;
+}
+.hero{
+    display:flex;
+    width: 100%;
+}
+.c{
+    
+    width: 250px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: rgb(22, 32, 55);
+    margin-left: 280px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+    
+    
+}
+.c img {
+    width:80%;
+    height:30% auto;
+    border-radius: 50%;
+    
+    margin-bottom: 30px;
+
+}
+.profile{
+    height:200px;
+   background-color:rgb(254, 254, 254);
+   display: flex;
+   width: 100%;
+   
+}
+.first{
+    margin-left: 80px;
+    
+    padding-top: 30px;
+    color: rgb(23, 96, 230);
+    font-weight: 900;
+    background-color: white;
+    width: 43%;
+
+}
+
+.section{
+
+    padding-top: 25px;
+    color:rgba(0, 0, 0, 0.767);
+    margin-left: 30px;
+    color: rgb(73, 75, 78);
+    padding-bottom: 5px;
+    
+    
+}
+
+span{
+    color:rgb(12, 105, 181);
+    margin-top: 5px;
+}
+.side{
+    height:160px;
+    width: 40%;
+    background-color:rgb(240, 246, 254);
+    margin-top: 30px;
+    margin-left: 70px;
+    /* color: rgb(117, 125, 140); */
+}
+h5{
+    display:flex;
+    font-weight: 700;
+    font-size: 25px;
+    margin-right: 10px;
+    gap:5px;
+
+}
+.h6{
+    display: flex;
+    gap:13px;
+    color: #1e8af7;
+    
+    
+
+}
+.h4{
+    display:flex;
+    font-size: 15px;
+    gap:13px;
+    color: rgb(18, 136, 255);
+    
+}
+.student{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+#t{
+    margin-left: 32px;
+}
+#k{
+    margin-left: 32px;
+}
+#d{
+    margin-left: 32px;
+}
+.e{
+    display: flex;
+    gap: 13px;
+    color: hsl(210, 90%, 47%);
+
+}
+.footer{
+    height:200px;
+    background-color: rgb(125, 141, 162);
+    
+}
+.image img{
+    height:100px;
+    width:100px;
+    border-radius: 20px;
+    margin-top: 10px;
+    
+
+}
+.image{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+
+    
+}
+.page{
+    text-align: center;
+    padding-top: 40px;
+    font-weight: 700;
+    color: beige;
+
+}
+.footer:hover{
+    background-color:rgba(22, 32, 55); 
+
+}
